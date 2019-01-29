@@ -6,7 +6,7 @@
       "value": "rwson" 
     },
     "environmentType": {
-      "value": "UAT"  
+      "value": "uat"  
     },
     "username": {
       "value": "solradmin"
