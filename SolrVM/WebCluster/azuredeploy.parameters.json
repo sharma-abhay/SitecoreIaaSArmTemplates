@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "envPrefixName": {
-      "value": "solr" 
+      "value": "sc9-solr" 
     },
     "environmentType": {
-      "value": "shared"  
+      "value": "UAT"  
     },
     "username": {
-      "value": "RDPUSERNAME"
+      "value": "solr-admin"
     },
     "password": {
-      "value": "RDPPASSWORD"
+      "value": "wbGpTlses9frCJIJPM"
     },
 	"solrVersion": {
       "value": "6.6.3"
     },
 	"location": {
-      "value": "eastus2"
+      "value": "australisoutheast"
     }
   }
 }
