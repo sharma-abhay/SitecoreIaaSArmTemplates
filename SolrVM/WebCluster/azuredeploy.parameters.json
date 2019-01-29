@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "envPrefixName": {
-      "value": "sc9-solr" 
+      "value": "sc9solr" 
     },
     "environmentType": {
       "value": "UAT"  
     },
     "username": {
-      "value": "solr-admin"
+      "value": "solradmin"
     },
     "password": {
       "value": "wbGpTlses9frCJIJPM"
