@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "envPrefixName": {
-      "value": "tst3"
+      "value": "rwson"
     },
     "environmentType": {
-      "value": "qa"
+      "value": "uat"
     },
     "username": {
-      "value": "RDPUSERNAME"
+      "value": "solradmin"
     },
     "password": {
-      "value": "RDPPASSWORD"
+      "value": "wbGpTlses9frCJIJPM"
     },
     "sitecoreXP0WdpPackage": {
       "value": "Sitecore 9.0.2 rev. 180604 (WDP XP0 packages)"
@@ -24,7 +24,7 @@
       "value": "solr-ssl.keystore.pfx"
     },
     "solrUrl": {
-      "value": "https://SOLR.eastus2.cloudapp.azure.com:8983/solr"
+      "value": "https://40.127.70.213:8983/solr"
     },
     "sitecoreConfigurationFilesNameNoExtensionXP0": {
       "value": "XP0 Configuration files 9.0.2 rev. 180604"
@@ -42,7 +42,7 @@
       "value": "sitecore"
     },
     "sqlAdminPassword": {
-      "value": "sitecore"
+      "value": "pEFb2vllcscegg"
     }
   }
 }
