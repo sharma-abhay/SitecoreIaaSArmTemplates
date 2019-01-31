@@ -15,28 +15,28 @@
       "value": "wbGpTlses9frCJIJPM"
     },
     "sitecoreXP0WdpPackage": {
-      "value": "Sitecore 9.0.2 rev. 180604 (WDP XP0 packages)"
+      "value": "Sitecore 9.0.1 rev. 171219 (WDP XP0 packages)"
     },
     "sitecoreCDWdpPackage": {
-      "value": "Sitecore 9.0.2 rev. 180604 (OnPrem)_cd.scwdp"
+      "value": "Sitecore 9.0.1 rev. 171219 (OnPrem)_cd.scwdp"
     },
     "solrSSLFileName": {
       "value": "solr-ssl.keystore.pfx"
     },
     "solrUrl": {
-      "value": "https://40.127.70.213:8983/solr"
+      "value": "https://rwsonuat.australiasoutheast.cloudapp.azure.com:8983/solr"
     },
     "sitecoreConfigurationFilesNameNoExtensionXP0": {
-      "value": "XP0 Configuration files 9.0.2 rev. 180604"
+      "value": "XP0 Configuration files 9.0.1 rev. 171219"
     },
     "sitecoreXp1CDJson": {
       "value": "sitecore-XP1-cd.json"
     },
     "xConnectPackage": {
-      "value": "Sitecore 9.0.2 rev. 180604 (OnPrem)_xp0xconnect.scwdp.zip"
+      "value": "Sitecore 9.0.1 rev. 171219 (OnPrem)_xp0xconnect.scwdp.zip"
     },
     "sitecoreSingleWdpPackage": {
-      "value": "Sitecore 9.0.2 rev. 180604 (OnPrem)_single.scwdp.zip"
+      "value": "Sitecore 9.0.1 rev. 171219 (OnPrem)_single.scwdp.zip"
     },
     "sqlAdminUser": {
       "value": "sitecore"
